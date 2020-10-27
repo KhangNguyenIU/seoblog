@@ -93,7 +93,7 @@ const SigninComponent = () => {
             <br/>
             <Link href="/auth/password/forgot">
                 <a className="btn btn-danger">
-                    forgot password
+                    do not remember password
                 </a>
             </Link>
         </React.Fragment>
